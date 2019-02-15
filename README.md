@@ -1,2 +1,2 @@
-# test-repo 987
+# test-repo
 demo
